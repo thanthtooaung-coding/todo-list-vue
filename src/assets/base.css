@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* color palette from <https://github.com/vuejs/theme> */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f3f4f6; /* Light gray background */
+  color: #333;
+}
